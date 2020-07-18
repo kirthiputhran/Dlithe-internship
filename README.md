@@ -7,16 +7,16 @@ Done by: Kirthi Puthran The Fruit With Colors Prediction using Machine Learning
 
 The steps involved in the project are:
 
-Importing our dataset, understanding it and cleaning the dataset
+  1.Importing our dataset, understanding it and cleaning the dataset
 
-Splitting dataset into train and test
+  2.Splitting dataset into train and test
 
-Visualizing Data
+  3.Visualizing Data
 
-Creating KNeighborsClassifier 
+  4.Creating KNeighborsClassifier 
 
-Estimating the accuracy of our model
+  5.Estimating the accuracy of our model
 
-The accuracy of the KNN classifier according to the choice of parameter K(No of neighbors)
+  6.The accuracy of the KNN classifier according to the choice of parameter K(No of neighbors)
 
 Data set: https://www.kaggle.com/anandraos/fruit-data-with-colours
